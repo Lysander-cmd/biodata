@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">biodata</string>
+    <string name="Nama" />
+    <string name="masukan_nama" />
+    <string name="Kelas" />
+    <string name="masukan_kelas" />
+    <string name="TTL" />
+    <string name="masukan_TTL" />
+    <string name="Simpan" />
+    <string name="Alamat" />
+    <string name="masukan_Alamat" />
+    <string name="Hobi" />
+    <string name="masukan_Hobi" />
+
+</resources>
